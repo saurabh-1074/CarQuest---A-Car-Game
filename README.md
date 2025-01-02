@@ -4,6 +4,7 @@ Welcome to CarQuest, an adrenaline-pumping, fast-paced car game built entirely w
 No external libraries, just pure HTML! Get ready for a lightweight, exciting ride! 🎮✨
 
 🏎️ **How to Play**:
+
 **Launch the Game**: Simply open Car.html in your favorite web browser.
 **Steer Your Car**: Use the arrow keys to control your car.
 ⬅️** Left Arrow**: Move Left
