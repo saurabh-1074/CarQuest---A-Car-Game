@@ -3,6 +3,8 @@ Welcome to CarQuest, an adrenaline-pumping, fast-paced car game built entirely w
 
 No external libraries, just pure HTML! Get ready for a lightweight, exciting ride! 🎮✨
 
+
+
 🏎️ **How to Play**:
 
 **Launch the Game**: Simply open Car.html in your favorite web browser.
@@ -19,9 +21,13 @@ No external libraries, just pure HTML! Get ready for a lightweight, exciting rid
 **Score**: Play to increase your score!
 
 
+
+
 📸 **Game Preview**:
 
 This is a simple car racing game made with pure HTML! Get ready to race!
+
+
 
 🛠️  **Tech Stack**:
 **HTML**: The core engine of the game 🚗
