@@ -3,7 +3,10 @@ Welcome to CarQuest, an adrenaline-pumping, fast-paced car game built entirely w
 
 No external libraries, just pure HTML! Get ready for a lightweight, exciting ride! 🎮✨
                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+                                                                                                                                                                                          
+                                                                                                                                                                                          
+                                                                                                                                                                                          
 
 🏎️ **How to Play**:
 
