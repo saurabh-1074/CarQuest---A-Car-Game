@@ -14,6 +14,9 @@ No external libraries, just pure HTML! Get ready for a lightweight, exciting rid
 
 ➡️ **Right Arrow**: Move Right
 
+⬆️ **Up Arrow**: Move Up
+
+⬇️ **Down Arrow**: Move Down
 
 **Avoid Obstacles**: Dodge other cars.
 
