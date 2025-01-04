@@ -63,6 +63,6 @@ If you're enjoying CarQuest, give this repository a ⭐️ and share it with you
 
 **GitHub Profile**:- https://github.com/saurabh-1074
 
-Twitter 🚀:- @SaurabhKum38176
+**Twitter** 🚀:- @SaurabhKum38176
 
-LinkedIn 🌐:- https://www.linkedin.com/in/saurabh-kumar-88a10a2a8/
+**LinkedIn** 🌐:- https://www.linkedin.com/in/saurabh-kumar-88a10a2a8/
