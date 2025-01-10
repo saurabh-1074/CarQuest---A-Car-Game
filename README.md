@@ -11,7 +11,7 @@ No external libraries, just pure HTML! Get ready for a lightweight, exciting rid
 🏎️ **How to Play**:   
   
 **Launch the Game**: Simply open Car.html in your favorite web browser.    
- 
+  
   
 **Steer Your Car**: Use the arrow keys to control your car. 
 
