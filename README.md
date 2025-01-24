@@ -18,7 +18,7 @@ No external libraries, just pure HTML! Get ready for a lightweight, exciting rid
 ⬅️** Left Arrow**: Move Left
 
 ➡️ **Right Arrow**: Move Right
-
+ 
 ⬆️ **Up Arrow**: Move Up
 
 ⬇️ **Down Arrow**: Move Down
